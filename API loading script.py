@@ -12,6 +12,15 @@ import dotenv
 from dotenv import load_dotenv # use for api key
 import os #provides ways to access the Operating System and allows us to read the environment variables
 
+
+################################################################################################
+# warning: API format may change due to constantly code update, the code may need to adjust accordingly
+################################################################################################
+
+
+
+
+
 ################################
 # load api key from .env file
 ################################
