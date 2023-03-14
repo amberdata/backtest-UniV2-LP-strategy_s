@@ -6,9 +6,9 @@
 
 
 * **Goal of the project**
->            1. Leverage Amberdata DeFi API to understand Uniswap pool behavior 
+            1. Leverage Amberdata DeFi API to understand Uniswap pool behavior 
                 (TVL, volume in USD, fee, trade numbers)
->            2. Build python backtest framework to calculate PnL as liquidity provider on selected 
+            2. Build python backtest framework to calculate PnL as liquidity provider on selected 
                 Uniswap V2 pair
              
 
